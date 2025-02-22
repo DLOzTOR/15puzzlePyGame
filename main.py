@@ -2,7 +2,7 @@ from puzzle_15 import Puzzle15
 
 
 def main():
-    game = Puzzle15(200, 200)
+    game = Puzzle15(400, 400)
     game.run()
 
 
